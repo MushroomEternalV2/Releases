@@ -1,4 +1,4 @@
-# [Mushroom Eternal Logo](https://cdn.creazilla.com/cliparts/3162097/mushroom-clipart-lg.png)
+[Mushroom Eternal Logo](https://cdn.creazilla.com/cliparts/3162097/mushroom-clipart-lg.png)
 
 # Mushroom Eternal
 
