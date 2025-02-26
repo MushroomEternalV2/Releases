@@ -19,7 +19,7 @@ Mushroom Eternal is a **powerful Auction House (AH) sniper and flipper mod** des
 
 Before diving into the world of AH flipping, make sure you meet the following requirements:
 
-- **Minecraft** installed with **Forge** or **Fabric** (depending on mod compatibility).
+- **Minecraft** installed with **Forge** 
 - A **Hypixel Skyblock** account with access to the Auction House.  
 - **Sufficient coins** in your Skyblock bank to engage in AH flipping. 💰
 
@@ -53,7 +53,7 @@ In **manual mode**, Mushroom Eternal will highlight potential flips directly in 
 
 ### Automatic Mode 🤖
 
-**Automatic mode** allows the mod to take care of everything. It will scan the Auction House in real-time, identifying and purchasing items that meet your preset criteria without any input from you. This "AFK Sniping" feature allows you to generate profit passively while you do other in-game activities or even step away from the game. 🛏️
+**Automatic mode** allows the mod to take care of everything. It will scan the Auction House in real-time, identifying and purchasing items that meet your preset criteria without any input from you at zero delay. This "AFK Sniping" feature allows you to generate profit passively, and snipe underpriced items, while you do other in-game activities or even step away from the game. 🛏️
 
 ## Best Practices for AH Flipping 📈
 
