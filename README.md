@@ -2,7 +2,6 @@
 
 Mushroom Eternal is an **AH sniper/flipper** for **Hypixel Skyblock** that helps you find underpriced items and flip them for profit. It features both **manual** and **automatic modes**, making it a powerful tool for traders looking to maximize their earnings. 💰
 
-![Mushroom Eternal Screenshot](https://cdn.discordapp.com/attachments/1342646881980776533/1344200980379734026/image_2025-02-26_165445340.png?ex=67c00c37&is=67bebab7&hm=689d0bae15b0e0b481d82d9941da573bb410922a8652e3a0cc2a1b4804e02277&)
 
 ## Features ✨
 
@@ -103,5 +102,7 @@ This project is licensed under the **MIT License**.
 **Note**: This project is for educational purposes only and should not be used for unfair advantages in online gaming environments.
 
 ---
+
+![Mushroom Eternal Screenshot](https://cdn.discordapp.com/attachments/1342646881980776533/1344200980379734026/image_2025-02-26_165445340.png?ex=67c00c37&is=67bebab7&hm=689d0bae15b0e0b481d82d9941da573bb410922a8652e3a0cc2a1b4804e02277&)
 
 Join our **Discord** community: [discord.gg/ErnRw2mj](https://discord.gg/ErnRw2mj) 🚀
